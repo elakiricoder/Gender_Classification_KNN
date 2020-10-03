@@ -2,7 +2,7 @@
 Classifying the Gender based on the given features. 
 Good for absolute beginners who are trying to understand the KNN concept.
 
-This is a made up data. I used the same data for Logistic Regression and here with KNN. There is about 2% improvement with KNN compared to the LR. Please check my LR as well to compare the results.
+This is a made up data. I used the same data for [Logistic Regression](https://github.com/elakiricoder/gender_classification_Logistic_Regression "My GitHub Logistic Regression") and here with KNN. There is about 2% improvement with KNN compared to the LR. Please check my LR as well to compare the results.
 
 **Steps:**
 - [x] 1 - Imports <br />
